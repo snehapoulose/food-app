@@ -7,6 +7,7 @@ export default function Home() {
       <p><Link href="/meals">Meal</Link></p>
       <p><Link href="/meals/share">Meal Share</Link></p>
       <p><Link href="/community">Community</Link></p>
+      <p><Link href="/login">Login</Link></p>
     </div>
   );
 }
